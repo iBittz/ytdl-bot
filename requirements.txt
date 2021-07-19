@@ -1,6 +1,7 @@
 tgbot-ping
 cryptg
 fakeredis
+ffmpeg
 
 telethon==1.21.1
 youtube-dl==2021.4.26
