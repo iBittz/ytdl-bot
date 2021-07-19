@@ -3,7 +3,7 @@ cryptg
 fakeredis
 ffmpeg
 
-telethon==1.21.1
+telethon
 youtube-dl==2021.4.26
 hachoir==3.1.2
 
